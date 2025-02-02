@@ -1,0 +1,1 @@
+print("Bijaiya is the best guy in the world")
